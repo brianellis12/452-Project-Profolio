@@ -1,17 +1,17 @@
 # Data Maps
 ## A user-friendly application that shows U.S. Census Bureau information for any location on the map.
 
-This project aims to solve two problems: optimization and curiosity. Many map applications exist that allow users to explore how the world looks or provide limited information on specific topics. For example, the U.S. Census Bureau has several maps that show demographic data from different decades. These maps are fascinating and educational, but they have some drawbacks. They are:
+This project aims to create an application that allows users to view Census Bureau information for any area they select. Many map applications exist that allow users to explore how the world looks or provide limited information on specific topics. For example, the U.S. Census Bureau has several maps that show demographic data from different decades. But these maps are often limited in scope, only showing one or two variables of the over 27,000 availible data points and having difficult to navigate interfaces that only work in web browsers.
 
-- Limited in scope: They only show one piece of information at a time.
-- Antiquated in design: They have slow and difficult to navigate interfaces that only work in web browsers.
-
-This project aims to improve upon these existing applications by creating a data maps application that is:
+This project aims to improve upon these existing applications by creating an application that is:
 
 - Comprehensive in scope: It shows all the U.S. Census Bureau information for any location on the map.
 - Modern in design: It has a fast and easy to navigate interface that works on any device.
 
-The purpose of this application is not necessarily educational or research-based. Instead, it is a simple and enjoyable way of viewing information about the world.
+The goal of this application is to be capable of both educational/research-based functions, as well as simply being an enjoyable way of viewing information about the world.
+
+## Presentation and Functional Demonstration
+https://user-images.githubusercontent.com/97993107/234980795-3824e9be-e116-4cbc-9ed3-2bddc33de3cd.mp4
 
 ## Features
 - A map to explore different areas and select locations

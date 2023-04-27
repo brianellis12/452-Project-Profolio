@@ -14,7 +14,7 @@ This project aims to improve upon these existing applications by creating a data
 The purpose of this application is not necessarily educational or research-based. Instead, it is a simple and enjoyable way of viewing information about the world.
 
 ## Features
-- A map to explore terrian and select locations
+- A map to explore different areas and select locations
 - A list of various groups of data to view, such as income, ancestry, and occupations.
 - A list of dropdowns of the different sections within that group, for example income level based on education.
 - A table of data specific to each section, ex. "Percentage of workers making $40,000-$60,000 with a high school degree.
@@ -55,3 +55,7 @@ The major risks involved with the development of the project was the Development
 | 5 - Google Sign In and Firebase Authentication Integration Testing | Testing the integration of Google Sign In and Firebase Authentication services | To ensure that the two services would be sufficient for authentication | A prototype application using the Google Sign In and Firebase packages was created and worked as expected for authenticating users |
 | 6 - Docker Setup and Integration Testing | Testing the setup and integration of Docker for the application | To ensure that the development team could effectively use Docker for the application | A prototype application was created and successfully run inside a Docker container |
 
+## Known Issues
+- **Styling** While very functional, the project design could be updated to improve the project.
+- **Performance** Most latency is due to the API connection with the U.S. Census Bureau, but improvements could be made to Flutter Widgets and Rest API functions.
+- **Login Optimization** While the login system works, it would be more efficient if it didn't require permission to the user's email account.
